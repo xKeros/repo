@@ -7,7 +7,7 @@ document
     const password = document.getElementById("password").value;
 
     // Check if email and password match
-    if (email === "teamo@jhojan.com" && password === "27.05.2022") {
+    if (email === "Mi Futura Esposa" && password === "27.05.2022") {
       // Redirect to index.html
       window.location.href = "carta.html";
     } else {
